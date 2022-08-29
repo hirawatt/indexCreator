@@ -2,6 +2,8 @@
 
 Create Index with Stocks/ETFs of your choice
 
+> Merged with [finance-tools](https://github.com/hirawatt/finance-tools)
+
 ## Todo
 
 - [ ] Generate Index Symbols from All Instruments
